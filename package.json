@@ -1,0 +1,34 @@
+{
+  "name": "nunjucks-fuzzyfile",
+  "version": "1.0.0",
+  "description": "Nunjucks fuzzy file search tag extension",
+  "keywords": [
+    "templates",
+    "nunjucks",
+    "extension",
+    "fuzzy",
+    "file",
+    "name"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:velocityzen/nunjucks-fuzzyfile.git"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "nanomatch": "^1.2.5"
+  },
+  "devDependencies": {
+    "ava": "^0.23.0",
+    "nunjucks": "^3.0.1",
+    "nyc": "^11.3.0"
+  },
+  "scripts": {
+    "test": "nyc ava"
+  }
+}
