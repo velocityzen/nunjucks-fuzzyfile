@@ -1,5 +1,8 @@
 # Nunjucks fuzzy file search tag extension
 
+[![NPM Version](https://img.shields.io/npm/v/nunjucks-fuzzyfile.svg?style=flat-square)](https://www.npmjs.com/package/nunjucks-fuzzyfile)
+[![NPM Downloads](https://img.shields.io/npm/dt/nunjucks-fuzzyfile.svg?style=flat-square)](https://www.npmjs.com/package/nunjucks-fuzzyfile)
+
 [Nunjucks](https://github.com/mozilla/nunjucks) fuzzy file search tag extension.
 
 ## Installation
