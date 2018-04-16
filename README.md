@@ -24,7 +24,7 @@ Looks for file matching pattern `filename*.ext` and returns matched filename. If
 
 `{% fuzzyfile filepath %}`
 
-### Exmaple:
+### Example:
 `{% fuzzyfile 'static/app.js' %}`
 
 License: MIT.
